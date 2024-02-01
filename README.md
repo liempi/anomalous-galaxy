@@ -1,2 +1,3 @@
 # anomalous-galaxy
 A project to check if a publication makes sense or not...
+And also to try to use github collaboratively and practice
